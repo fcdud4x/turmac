@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>NAIL SPACE AND DELICATE</title>
+<p> 
+Na NAIL SPACE AND DELICATE acreditamos que as unhas são uma forma de expressão e que cada pessoa tem o direito de exibir seu estilo e personalidade através de suas mãos. 
+Queremos que você se sinta confiante e feliz consigo mesmo, e é por isso que trabalhamos incansavelmente para fornecer o melhor serviço possível. Estamos no mercado de trabalho des de 2018. 
+</p>
+
+<p>
+Somos muito mais do que uma franquia de esmalteria. Somos um lugar onde você pode se expressar e se cuidar ao mesmo tempo. Nossos serviços de esmalteria e limpeza de cutículas são únicos e exclusivos, e nossos profissionais são altamente treinados e qualificados.
+Além disso, temos uma variedade de serviços de estética para que você possa se sentir bem consigo mesmo de dentro para fora. Se você está procurando uma depilação, design de sobrancelhas ou uma massagem relaxante, estamos aqui para ajudar.
+</p>
+
+<p>
+  <strong> 
+Venha visitar uma de nossas lojas e entre no mundo das NAILS SPACE AND DELICATE, onde a autoexpressão e o autocuidado andam de mãos dadas.
+  </strong> 
+</p>
+  </head>
+
+  <body>
+
+  <strong> 
+    <title>NOSSA MISSÃO:</title>
+  </strong> 
+
+<p>
+  <em>
+Transformar o sonho de beleza de todos nossos clientes com excelência, inovação e uma prestação profissional que oferece rapidez, higiene e qualidade. Aos nossos parceiros franqueados, proporcionar prosperidade plena, processos e relacionamento humanizados e capacitá-los para gerir sua empresa com todas ferramentas necessárias.
+  </em>
+</p>
+
+  </body>
+
+<html>
+
+  <figure>
+    <img scr="Esmalteria.jpg">
+  </figure>
+
+  <div>
+       <picture>
+          <source media="(win-width: 950px)" srcset="Esmalteria.png">
+          <img scr="Esmalteria.jpg" width="100%">
+      </picture>
+  </div>
+
+</html>
